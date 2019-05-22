@@ -1,0 +1,11 @@
+1.Linked list is a linear data structure.
+2.Elements are linked using pointers.
+
+Advantages
+1.Dynamic size
+2.Insertion and deletion is easier than array.
+
+Disadvantages
+1.Random access is not possible.
+2.prone to segfault.
+3.more memory for pointer.
